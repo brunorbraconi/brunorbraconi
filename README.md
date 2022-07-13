@@ -1,4 +1,4 @@
-### Hi there, I'm Bruno 👋😁🐱‍👤
+## Hi there, I'm Bruno 👋😁🐱‍👤
 
 ```javascript
 const bruno = {
@@ -10,7 +10,7 @@ const bruno = {
  
 }
 ```
-How to reach me 🌎:
+#### How to reach me 🌎:
 
 - [Portfolio](https://brunobraconi.vercel.app/)
 - [Linkedin](https://www.linkedin.com/in/bruno-braconi-63a39714b/)
