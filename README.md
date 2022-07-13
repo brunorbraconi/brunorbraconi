@@ -1,5 +1,6 @@
 ## Hi there, I'm Bruno 👋😁🐱‍👤
 
+#### About me 😎:
 ```javascript
 const bruno = {
   technologies: 'web',
