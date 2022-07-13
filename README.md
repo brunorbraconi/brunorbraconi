@@ -10,7 +10,7 @@ const bruno = {
  
 }
 ```
-You can find me 🌎:
+How to reach me 🌎:
 
 - [Portfolio](https://brunobraconi.vercel.app/)
 - [Linkedin](https://www.linkedin.com/in/bruno-braconi-63a39714b/)
