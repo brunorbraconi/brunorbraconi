@@ -6,7 +6,7 @@ const bruno = {
   code: [Javascript, Typescript, HTML, CSS, SQL, MONGODB ],
   tools: [React, Express, Node, Storybook, TailwindCSS, Styled-Components, NodeJS],
   architecture: ["microservices", "event-driven", "design system pattern"],
-  passions:['performance web', 'web development']
+  passions:['performance web', 'web development', 'E-Sports']
  
 }
 ```
